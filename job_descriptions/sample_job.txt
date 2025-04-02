@@ -1,0 +1,5 @@
+We are looking for a Python Developer with experience in Flask, Machine Learning, and NLP.
+Requirements:
+- Proficiency in Python
+- Experience with Flask and APIs
+- Knowledge of NLP and AI models
